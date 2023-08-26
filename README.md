@@ -5,5 +5,5 @@ Project description: Using IMX6ULL_PRO development board and capacitive touch sc
 2.Familiar with object-oriented driver development, including driver development for bus devices, device tree writing and interrupt handling.
 
 项目描述：采用IMX6ULL_PRO开发板和电容触摸屏为硬件平台，以Ubuntu、Source Insight、MobaXterm和FileZilla为软件平台，基于基本的应用开发和驱动开发知识，开发了一款带有GUI的电子产品量产工具，用于测试系统各模块功能状态，程序框架包含显示/输入/文字/UI/页面/业务共六个系统。
-•	掌握Framebuffer应用编程、文字显示编程、网络通讯编程、多线程编程等；
-•	熟悉面向对象的驱动开发，包括总线设备的驱动开发、设备树编写和中断处理等。
+1.掌握Framebuffer应用编程、文字显示编程、网络通讯编程、多线程编程等；
+2.熟悉面向对象的驱动开发，包括总线设备的驱动开发、设备树编写和中断处理等。
